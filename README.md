@@ -11,11 +11,11 @@
 
 - 👷‍♂️ I’m currently working on [Sidewalk Sale](https://github.com/tlarram/Sidewalk-Sale) | [Video Game Sale](https://github.com/tlarram/Gaming-Website-Project) | [Personal Website](https://github.com/tlarram/my-website)
 
-- 🧠 I’m currently learning **new Algos, Deeping JAVA, JAVA Email**
+- 🧠 I’m currently learning **new Algos, alternatives to Bootstrap such as Sass and Tailwind, JAVA Email**
 
 - ✉️ How to reach me **tlarramore@gmail.com**
 
-- 🤓 I am also a huge sci-fi/fantasy/horror/video game **
+- 🤓 I am also a huge sci-fi/fantasy/horror video games and books **
 
 
 
