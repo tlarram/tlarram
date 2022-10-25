@@ -1,7 +1,8 @@
 ![ObiWanKenobiHelloThereGIF](https://user-images.githubusercontent.com/98435432/197806061-67a34c52-7242-47d4-a8bf-315f69bc060a.gif)
 ### Hello there, I am Obi...err I mean I am Timothy 
 <hr>
-
+<h3 align="center">💬 Connect with me:</h3>
+<a href="https://linkedin.com/in/tlarram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tlarram" height="25" width="35" /></a>
 <!--
 **tlarram/tlarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
