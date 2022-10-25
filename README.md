@@ -1,4 +1,5 @@
-### Hello there, I am Obi...err I mean I am Timothy ![ObiWanKenobiHelloThereGIF](https://user-images.githubusercontent.com/98435432/197806061-67a34c52-7242-47d4-a8bf-315f69bc060a.gif)
+![ObiWanKenobiHelloThereGIF](https://user-images.githubusercontent.com/98435432/197806061-67a34c52-7242-47d4-a8bf-315f69bc060a.gif)
+### Hello there, I am Obi...err I mean I am Timothy 
 
 
 <!--
