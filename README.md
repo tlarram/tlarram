@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I am Obi...err I mean I am Timothy 👋
 
 <!--
 **tlarram/tlarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
