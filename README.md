@@ -17,7 +17,7 @@
 
 - ✉️ How to reach me **tlarramore@gmail.com**
 
-- 🤓 I am also a huge sci-fi/fantasy/horror video games and books **
+- 🤓 I am also a huge sci-fi/fantasy/horror video games and books
 
 <hr>
 
